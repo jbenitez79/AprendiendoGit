@@ -1,5 +1,9 @@
 # Primer TP de Seminario Seminario de actualización dev ops
-## Autor: Julian Benitez
+Autor: Julian Benitez.  
+GitHub: jbenitez79
+
+## Introduccion
+Se realizaron los pasos solicitados y adicionalmente cree este archivo junto a unas imagenes para realizar la entrega. Se sube un pdf que se genero en la pagina del respositorio en github.
 
 ## Pasos a realizar
 
